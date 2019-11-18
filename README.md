@@ -1,6 +1,9 @@
 # argonsodiumvanadium
 ## a java programmer<br>
 
+> this is not my main repositiry or account my main account is https://github.com/argonsodiumvanadium
+
+
 ## projects:<br>
 ### procedural map generator<br>
 a simple code to generate maps from java with shaders, to check it out 
