@@ -14,4 +14,4 @@ a simple code to generate maps from java with shaders, to check it out
 ### chatEngine - BETA <br>
   a simple group chat engine under developement the gui is terminal based and right now the server is not ready as 
   it is super hard but gui was simple as pie to check it out<br>
-  -https://argonsodiumvanadium.github.io/chatProgram_BASIC/
+  - https://argonsodiumvanadium.github.io/chatProgram_BASIC/
